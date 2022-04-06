@@ -1,0 +1,288 @@
+Uri: http://24x7repair-service.in/
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\index.htm
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/about-us.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\about-us.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/ac-repair.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\ac-repair.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/contact-us.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\contact-us.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/css/banner.css
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\css\banner.css
+Content Type: text/css
+
+Uri: http://24x7repair-service.in/css/style.css
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\css\style.css
+Content Type: text/css
+
+Uri: http://24x7repair-service.in/dishwasher-repair.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\dishwasher-repair.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/images/abt.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\abt.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bann/1.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bann\1.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bann/2.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bann\2.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bann/3.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bann\3.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bann/4.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bann\4.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bann/5.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bann\5.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bann/6.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bann\6.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bann/7.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bann\7.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bg-3.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/bg-cta.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\bg-cta.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/Dishwasher-Repair.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\Dishwasher-Repair.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/icon/air-conditioner.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\icon\air-conditioner.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/icon/dishwasher.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\icon\dishwasher.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/icon/enq2.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\icon\enq2.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/icon/fridge.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\icon\fridge.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/icon/microwave-oven.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\icon\microwave-oven.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/icon/television.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\icon\television.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/icon/washing-machine.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\icon\washing-machine.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/img-inner1.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\img-inner1.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/logo.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\logo.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/images/ourservicebg.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\ourservicebg.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/service-1.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\service-1.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/service-2.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\service-2.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/service-3.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\service-3.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/service-4.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\service-4.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/service-5.jpg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\service-5.jpg
+Content Type: image/jpeg
+
+Uri: http://24x7repair-service.in/images/whatsapp.png
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\images\whatsapp.png
+Content Type: image/png
+
+Uri: http://24x7repair-service.in/index.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\index.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/js/banner.js
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\js\banner.js
+Content Type: application/javascript
+
+Uri: http://24x7repair-service.in/js/logoslide.js
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\js\logoslide.js
+Content Type: application/javascript
+
+Uri: http://24x7repair-service.in/microwave-oven-repair.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\microwave-oven-repair.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/refrigerator-repair.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\refrigerator-repair.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/tv-repair.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\tv-repair.php.html
+Content Type: text/html
+
+Uri: http://24x7repair-service.in/washing-machine-repair.php
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\washing-machine-repair.php.html
+Content Type: text/html
+
+Uri: https://ajax.aspnetcdn.com/ajax/jquery.validate/1.15.0/jquery.validate.js
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\ajax\jquery.validate\1.15.0\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\ajax\libs\animate.css\3.5.2\animate.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\bootstrap\3.4.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\bootstrap\3.2.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://netdna.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\bootstrap\3.2.0\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://netdna.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://netdna.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Users\Ashok\Desktop\New Website\new images\second website\24x7repair-service.in\recaptcha\api.js
+Content Type: text/javascript
+
